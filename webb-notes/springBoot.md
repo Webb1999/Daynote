@@ -17,3 +17,4 @@ linux 后台 ps -ef |grep ‘java -jar’   然后kill -9 +进程号
 3spring Cache
 
 ![1681127041424](assets/picture/springBoot/1681127041424.png)
+
